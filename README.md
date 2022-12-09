@@ -8,6 +8,7 @@ Conteúdo de cada pasta:
 - Dataset (Dados utilizados).
 
 Classificação dos Projetos:
+
 Número do Projeto - Nome da Atividade/Ramo/Negócio/Objeto de Estudo
 
 
