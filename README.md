@@ -1,7 +1,4 @@
-# Segmentação de Clientes
-Customer Segmentation
----
-
+# Segmentação de Clientes | Customer Segmentation
 Os problemas de negócio são bastante parecidos porém, em cada um deles foi utilizado softwares, algoritmos, linguagens, pacotes e métodos diferentes.
 
 Conteúdo de cada pasta:
