@@ -7,8 +7,6 @@ Agrupar os clientes com base nas ordens de pedido com o intuito de melhorar o si
 - Segmentação 01 - Análise entre os produtos: Pizza e Sobremesa
 - Segmentação 02 - Análise entre os produtos: Pizza e Salada
 - Segmentação 03 - Análise entre os produtos: Pizza e Localidade
-- Segmentação 04 - Análise entre os produtos: Pizza, Salada e Localidade
-- Segmentação 05 - Análise entre os produtos: Pizza, Salada e Sobremesa
 
 ### Segmentação 01
 
@@ -70,12 +68,4 @@ Resultado obtido após análises, transformações dos dados e testes estatísti
 
 Queremos aumentar as vendas, certo? Então teríamos que investigar mais a fundo os pedidos dos clusters à esquerda do gráfico e compreender em mais detalhes as características desses pedidos e que tipo de oferta podemos fazer.
 
-### Segmentação 04
-
-### Interpretação
-### Análise
-
-### Segmentação 05
-
-### Interpretação
-### Análise
+Execução e Análise : A. Damasceno
