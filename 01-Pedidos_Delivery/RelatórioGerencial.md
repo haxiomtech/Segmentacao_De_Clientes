@@ -2,13 +2,13 @@
 
 ### Problema de Negócio: 
 
-Segmentar os clientes com base nas ordens de pedido com o intuito de melhorar o sistema de promoções (Marketing).
+Agrupar os clientes com base nas ordens de pedido com o intuito de melhorar o sistema de promoções (Marketing).
 
-- Segmentação 01 : 
-- Segmentação 02 : 
-- Segmentação 03 : 
-- Segmentação 04 : 
-- Segmentação 05 : 
+- Segmentação 01 - Análise entre os produtos: Pizza e Sobremesa
+- Segmentação 02 - Análise entre os produtos: Pizza e Salada
+- Segmentação 03 - Análise entre os produtos: Pizza e Localidade
+- Segmentação 04 - Análise entre os produtos: Pizza, Salada e Localidade
+- Segmentação 05 - Análise entre os produtos: Pizza, Salada e Sobremesa
 
 ### Segmentação 01
 
@@ -33,3 +33,43 @@ Cluster 2 - Clientes que pedem mais Pizzas. Todos pedem sobremesa em volume maio
 ### Solução
 
 #### Como estratégia de Marketing, poderíamos oferecer ao cliente uma sobremesa grátis no caso de comprar mais uma Pizza de maior valor. Com base na Segmentação provavelmente essa estratégia teria sucesso.
+
+
+### Segmentação 02
+
+Resultado obtido após análises, transformações dos dados e testes estatísticos.
+
+![image](https://user-images.githubusercontent.com/119424591/206946883-50e5adb0-6e97-4acf-8cee-2b274bcaecb6.png)
+
+### Interpretação
+
+O ponto vermelho é o centróide de cada cluster (segmento).
+
+- No cluster 1 (área em cinza) temos os clientes que pediram menos Pizzas e mais Saladas.
+- No cluster 2 (área em verde escuro) temos os clientes que pediram poucas Pizzas e poucas Saladas.
+- No cluster 3 (área em verde claro) estão clientes que pediram mais Pizzas e menos Saladas.
+
+### Análise
+
+Os clusters 1 e 3 são de clientes com comportamentos opostos. A equipe de Marketing poderia concentrar os esforços nos clientes do cluster 2, pois são clientes que compram Pizzas e Saladas e, portanto, tendem a consumir mais itens variados evitando manter os estoques cheios de um único item.
+
+Ou então, concentrar os esforços nos clientes que consomem produtos que geram mais lucro. Teríamos que verificar qual item, Pizza ou Salada, é mais rentável.
+
+### Segmentação 03
+
+Resultado obtido após análises, transformações dos dados e testes estatísticos.
+
+![image](https://user-images.githubusercontent.com/119424591/206946935-ab9e8034-5090-4b6e-9c19-730fd929f218.png)
+
+### Interpretação
+### Análise
+
+### Segmentação 04
+
+### Interpretação
+### Análise
+
+### Segmentação 05
+
+### Interpretação
+### Análise
