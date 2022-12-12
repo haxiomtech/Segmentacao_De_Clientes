@@ -12,8 +12,7 @@ Classificação dos Projetos:
 
 Número do Projeto - Nome da Atividade/Ramo/Negócio/Objeto de Estudo
 
-
-# Marketing Analytics
+### Marketing Analytics
 
 Marketing Analytics compreende os processos e tecnologias que permitem aos profissionais de Marketing avaliar o sucesso de suas iniciativas.
 
@@ -22,7 +21,7 @@ Isso é feito medindo o desempenho das campanhas de Marketing, coletando os dado
 Marketing Analytics reúne dados de todos os canais de marketing e os consolida em uma visão de marketing comum. A partir dessa visão comum, você pode extrair resultados analíticos que podem fornecer assistência inestimável para impulsionar os esforços de marketing.
 
 
-# O Que Você Pode Fazer com Marketing Analytics?
+### O Que Você Pode Fazer com Marketing Analytics?
 
 Com Marketing Analytics, você pode responder a perguntas como estas:
 
@@ -33,11 +32,11 @@ Com Marketing Analytics, você pode responder a perguntas como estas:
 - Consigo segmentar meus clientes por similaridade? Tenho como saber os gastos por grupo?
 - E muitas outras...
 
-# O Que é Segmentação de Clientes?
+### O Que é Segmentação de Clientes?
 
 A segmentação de clientes é o processo de dividir os clientes em grupos com base em características comuns, para que as empresas possam comercializar para cada grupo de forma eficaz e adequada, ou simplesmente compreender o padrão de consumo dos clientes.
 
-# Marketing B2B x Marketing B2C
+### Marketing B2B x Marketing B2C
 
 No Marketing Business-to-Business (B2B), uma empresa pode segmentar clientes de acordo com uma ampla variedade de fatores, incluindo:
 
@@ -57,7 +56,7 @@ No Marketing Business-to-Consumer (B2C), as empresas geralmente segmentam os cli
 - Valor gasto
 - Horário de consumo
 
-# Como Segmentar Clientes?
+### Como Segmentar Clientes?
 
 A segmentação de clientes exige que uma empresa colete informações específicas - dados - sobre clientes e analise-as para identificar padrões que podem ser usados para criar segmentos.
 
@@ -71,8 +70,10 @@ Os métodos típicos de coleta de informações incluem:
 - Grupos de foco
 - Dados de acessos a sistemas ou apps
 
-# Usando Segmentos de Clientes
+### Usando Segmentos de Clientes
 
 Características comuns nos segmentos de clientes podem orientar como uma empresa comercializa segmentos individuais e quais produtos ou serviços ela promove. Uma pequena empresa que vende guitarras feitas à mão, por exemplo, pode decidir promover produtos com preços mais baixos para guitarristas mais jovens e guitarras premium com preços mais altos para músicos mais velhos, com base no conhecimento do segmento que lhes diz que os músicos mais jovens têm menos renda disponível do que seus colegas mais velhos.
 
 A segmentação de clientes pode ser praticada por todas as empresas, independentemente do tamanho ou setor, e se vendem on-line ou presencialmente. Começa com a coleta e a análise de dados e termina com a atuação nas informações coletadas de maneira apropriada e eficaz, com a entrega das conclusões.
+
+**Definições extraídas da organização Data Academy
