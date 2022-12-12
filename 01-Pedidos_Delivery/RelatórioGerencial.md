@@ -2,7 +2,7 @@
 
 ### Problema de Negócio: 
 
-Agrupar os clientes com base nas ordens de pedido com o intuito de melhorar o sistema de promoções (Marketing).
+Agrupar os clientes com base nas ordens de pedido com o intuito de melhorar o sistema de promoções (Marketing) e alocar recursos financeiros para cada grupo de clientes.
 
 - Segmentação 01 - Análise entre os produtos: Pizza e Sobremesa
 - Segmentação 02 - Análise entre os produtos: Pizza e Salada
