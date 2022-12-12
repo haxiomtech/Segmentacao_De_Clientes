@@ -49,7 +49,7 @@ O ponto vermelho é o centróide de cada cluster (segmento).
 - No cluster 2 (área em verde escuro) temos os clientes que pediram poucas Pizzas e poucas Saladas.
 - No cluster 3 (área em verde claro) estão clientes que pediram mais Pizzas e menos Saladas.
 
-### Análise
+### Análise e Solução
 
 Os clusters 1 e 3 são de clientes com comportamentos opostos. A equipe de Marketing poderia concentrar os esforços nos clientes do cluster 2, pois são clientes que compram Pizzas e Saladas e, portanto, tendem a consumir mais itens variados evitando manter os estoques cheios de um único item.
 
@@ -66,7 +66,7 @@ Resultado obtido após análises, transformações dos dados e testes estatísti
 - O ponto vermelho é o centróide de cada cluster (segmento).
 - Observe que os clusters da esquerda no gráfico contém os pedidos de todas as Localidades, mas com menor número de Pizzas. Já os clusters da direita no gráfico contém pedidos de todas as Localidades com com maior número de Pizzas.
 
-### Análise
+### Análise e Solução
 
 Queremos aumentar as vendas, certo? Então teríamos que investigar mais a fundo os pedidos dos clusters à esquerda do gráfico e compreender em mais detalhes as características desses pedidos e que tipo de oferta podemos fazer.
 
