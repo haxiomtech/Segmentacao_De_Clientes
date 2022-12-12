@@ -12,6 +12,8 @@ Classificação dos Projetos:
 
 Número do Projeto - Nome da Atividade/Ramo/Negócio/Objeto de Estudo
 
+## Definições sobre segmentação de clientes
+
 ### Marketing Analytics
 
 Marketing Analytics compreende os processos e tecnologias que permitem aos profissionais de Marketing avaliar o sucesso de suas iniciativas.
