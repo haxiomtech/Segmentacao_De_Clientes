@@ -18,11 +18,11 @@ Resultado obtido após análises, transformações dos dados e testes estatísti
 
 #### Interpretação
 
-O ponto vermelho é o centróide de cada cluster (segmento).
+- O ponto vermelho é o centróide de cada cluster (segmento).
 
-No cluster 1 (área em verde) temos os clientes que pediram 0, 1 ou 2 Pizzas. Em todos os casos houve pedido de Sobremesa.
+- No cluster 1 (área em verde) temos os clientes que pediram 0, 1 ou 2 Pizzas. Em todos os casos houve pedido de Sobremesa.
 
-No cluster 2 (área em cinza) estão clientes que pediram 2, 3, 4 ou 5 Pizzas. Perceba que à medida que o pedido tem maior número de Pizzas, também aumenta o número de Sobremesas.
+- No cluster 2 (área em cinza) estão clientes que pediram 2, 3, 4 ou 5 Pizzas. Perceba que à medida que o pedido tem maior número de Pizzas, também aumenta o número de Sobremesas.
 
 #### Análise
 
@@ -39,7 +39,7 @@ Cluster 2 - Clientes que pedem mais Pizzas. Todos pedem sobremesa em volume maio
 
 Resultado obtido após análises, transformações dos dados e testes estatísticos.
 
-![image](https://user-images.githubusercontent.com/119424591/206946883-50e5adb0-6e97-4acf-8cee-2b274bcaecb6.png)
+![image](https://user-images.githubusercontent.com/119424591/206947376-2997e4b8-9320-446a-96da-2e7b26a0e908.png)
 
 ### Interpretação
 
@@ -62,7 +62,13 @@ Resultado obtido após análises, transformações dos dados e testes estatísti
 ![image](https://user-images.githubusercontent.com/119424591/206946935-ab9e8034-5090-4b6e-9c19-730fd929f218.png)
 
 ### Interpretação
+
+- O ponto vermelho é o centróide de cada cluster (segmento).
+- Observe que os clusters da esquerda no gráfico contém os pedidos de todas as Localidades, mas com menor número de Pizzas. Já os clusters da direita no gráfico contém pedidos de todas as Localidades com com maior número de Pizzas.
+
 ### Análise
+
+Queremos aumentar as vendas, certo? Então teríamos que investigar mais a fundo os pedidos dos clusters à esquerda do gráfico e compreender em mais detalhes as características desses pedidos e que tipo de oferta podemos fazer.
 
 ### Segmentação 04
 
