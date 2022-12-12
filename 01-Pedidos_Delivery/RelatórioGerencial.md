@@ -68,4 +68,4 @@ Resultado obtido após análises, transformações dos dados e testes estatísti
 
 Queremos aumentar as vendas, certo? Então teríamos que investigar mais a fundo os pedidos dos clusters à esquerda do gráfico e compreender em mais detalhes as características desses pedidos e que tipo de oferta podemos fazer.
 
-Execução e Análise : A. Damasceno
+_Execução e Análise : A. Damasceno_
